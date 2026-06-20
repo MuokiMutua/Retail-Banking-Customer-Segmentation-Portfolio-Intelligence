@@ -1,0 +1,6 @@
+cluster_id,age,recency_days,transaction_frequency,monetary_value_kes,active_microloans,preferred_channel,count,segment_name,segment_emoji,segment_color,tagline,action
+0,35.2,14.7,17.9,29296.2,1.5,Branch,817,Dormant,💤,#64748b,Long inactive — minimal recent engagement.,"Send low-cost re-activation messages. If unresponsive, deprioritise in budget."
+1,34.9,15.0,19.3,28485.5,1.5,Mobile App,3587,Dormant,💤,#64748b,Long inactive — minimal recent engagement.,"Send low-cost re-activation messages. If unresponsive, deprioritise in budget."
+2,34.9,14.5,19.6,29822.3,1.5,USSD / Mobile Money,3129,Dormant,💤,#64748b,Long inactive — minimal recent engagement.,"Send low-cost re-activation messages. If unresponsive, deprioritise in budget."
+3,36.2,12.1,18.8,479402.4,1.1,USSD / Mobile Money,74,Steady Regulars,📊,#94a3b8,"Consistent, mid-tier customers forming your stable base.",Maintain engagement with utility features. Candidate for frequency-boosting incentives.
+4,33.9,13.1,19.4,31218.4,1.4,ATM,393,Loan-Active,🏦,#38bdf8,Actively using credit products — high engagement potential.,Cross-sell savings or insurance products. Monitor repayment behaviour closely.
